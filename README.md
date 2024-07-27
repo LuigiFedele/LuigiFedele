@@ -15,6 +15,7 @@
 ###
 
 <h6 align="left">Portfólio : https://luigiffedele.netlify.app/</h6>
+<h6 align="left">Linkedln : https://www.linkedin.com/in/luigiffedele/</h6>
 
 ###
 
