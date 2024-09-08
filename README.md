@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Fullstack / Mobile</h6>
+<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Fullstack </h6>
 
 ###
 
