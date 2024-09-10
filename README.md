@@ -23,6 +23,6 @@
 
 ###
 
-<h6 align="left">Localização: Botucatu - SP<br>E-mail: luigifedele.dev@gmail.com<br>Telefone: +55 14 9 9888-1318</h6>
+<h6 align="left">Localização: Botucatu - SP<br>E-mail: luigiffedele@gmail.com<br>Telefone: +55 14 9 9888-1318</h6>
 
 ###
