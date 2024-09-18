@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Fullstack </h6>
+<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Backend </h6>
 
 ###
 
@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor fullstack e mobile com experiência em desenvolvimento usando React Native, React.js, Node.js e SQL. Atualmente estudando Engenharia de Software e aprimorando meu conhecimento em arquitetura de software. Apaixonado por aprender coisas novas e aprimorar minhas habilidades. Destaco-me pelo meu comprometimento e disciplina.</p>
+<p align="left">Desenvolvedor Backend com 6 meses de experiência focado em Javascript, Node.js e Typescript. Busco integrar uma equipe de desenvolvimento onde possa aplicar e aprimorar minhas habilidades, contribuindo para a criação de soluções eficientes e escaláveis, sempre utilizando boas práticas de arquitetura de software. Meu objetivo é continuar aprendendo, evoluindo e trabalhando em projetos desafiadores que testem minha capacidade técnica e inovadora.</p>
+
+<p> Tecnologias: NodeJS, JavaScript, Express, TypeScript, NestJS, Docker, MySQL, SQLite, MongoDB, Firebase, GitHub, Testes, Next Auth, React, React Native, HTML5, CSS3, Linux.</p>
 
 ###
 
