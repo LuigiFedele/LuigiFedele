@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Backend com 6 meses de experiência focado em Javascript, Node.js e Typescript. Busco integrar uma equipe de desenvolvimento onde possa aplicar e aprimorar minhas habilidades, contribuindo para a criação de soluções eficientes e escaláveis, sempre utilizando boas práticas de arquitetura de software. Meu objetivo é continuar aprendendo, evoluindo e trabalhando em projetos desafiadores que testem minha capacidade técnica e inovadora.</p>
+<p align="left">Desenvolvedor Backend com experiência focado em Javascript, Node.js e Typescript. Busco integrar uma equipe de desenvolvimento onde possa aplicar e aprimorar minhas habilidades, contribuindo para a criação de soluções eficientes e escaláveis, sempre utilizando boas práticas de arquitetura de software. Meu objetivo é continuar aprendendo, evoluindo e trabalhando em projetos desafiadores que testem minha capacidade técnica e inovadora.</p>
 
 <p> Tecnologias: NodeJS, JavaScript, Express, TypeScript, NestJS, Docker, MySQL, SQLite, MongoDB, Firebase, GitHub, Testes, Next Auth, React, React Native, HTML5, CSS3, Linux.</p>
 
