@@ -16,8 +16,8 @@
 
 ###
 
-<h6 align="left">Portfólio : https://luigiffedele.netlify.app/</h6>
 <h6 align="left">Linkedln : https://www.linkedin.com/in/luigiffedele/</h6>
+<h6 align="left">Blog Pessoal : https://clear-sprint-da4.notion.site/Blog-Pessoal-1089d4904fde8033baa8d8bb2276b5b5/</h6>
 
 ###
 
