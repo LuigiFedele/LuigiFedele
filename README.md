@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Backend </h6>
+<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Backend Junior</h6>
 
 ###
 
@@ -10,14 +10,27 @@
 
 ###
 
-<p align="left">Desenvolvedor Backend com experiência focado em Javascript, Node.js e Typescript. Busco integrar uma equipe de desenvolvimento onde possa aplicar e aprimorar minhas habilidades, contribuindo para a criação de soluções eficientes e escaláveis, sempre utilizando boas práticas de arquitetura de software. Meu objetivo é continuar aprendendo, evoluindo e trabalhando em projetos desafiadores que testem minha capacidade técnica e inovadora.</p>
-
-<p> Tecnologias: NodeJS, JavaScript, Express, TypeScript, NestJS, Docker, MySQL, SQLite, MongoDB, Firebase, GitHub, Testes, Next Auth, React, React Native, HTML5, CSS3, Linux.</p>
+<p align="left">Desenvolvedor com experiência em JavaScript e TypeScript desde 2023, com foco em back-end e arquitetura orientada a microsserviços. Participei do desenvolvimento do Construlab, assumindo integralmente a construção do back-end com NestJS e TypeScript, aplicando a arquitetura MVC e seguindo as melhores práticas de Clean Code. Gerenciei a persistência de dados com PostgreSQL e implementei soluções robustas utilizando Docker para orquestração de contêineres, garantindo escalabilidade e confiabilidade na infraestrutura.</p>
 
 ###
 
-<h6 align="left">Linkedln : https://www.linkedin.com/in/luigiffedele/</h6>
-<h6 align="left">Blog Pessoal : https://clear-sprint-da4.notion.site/Blog-Pessoal-1089d4904fde8033baa8d8bb2276b5b5/</h6>
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="25" alt="go logo"  />
+</div>
 
 ###
 
@@ -25,6 +38,7 @@
 
 ###
 
-<h6 align="left">Localização: Botucatu - SP<br>E-mail: luigiffedele@gmail.com<br>Telefone: +55 14 9 9888-1318</h6>
+[![Linkedin]( https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luigiffedele/)](https://www.linkedin.com/in/luigiffedele/)
+[![Gmail]( https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luigiffedele@gmail.com)](mailto:luigiffedele@gmail.com)
 
 ###
