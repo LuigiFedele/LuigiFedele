@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor com experiência em JavaScript e TypeScript desde 2023, com foco em back-end e arquitetura orientada a microsserviços. Participei do desenvolvimento do Construlab, assumindo integralmente a construção do back-end com NestJS e TypeScript, aplicando a arquitetura MVC e seguindo as melhores práticas de Clean Code. Gerenciei a persistência de dados com PostgreSQL e implementei soluções robustas utilizando Docker para orquestração de contêineres, garantindo escalabilidade e confiabilidade na infraestrutura.</p>
+<p align="left">Desenvolvedor com experiência em Typescript, com foco em back-end. Experiência comprovada em arquitetura MVC e desenvolvimento orientado a testes. Busco oportunidade como Desenvolvedor Backend Junior para contribuir com desenvolvimento de soluções escaláveis e de alta qualidade.</p>
 
 ###
 
