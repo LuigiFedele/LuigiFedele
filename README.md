@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor com experiência em Typescript, com foco em back-end. Experiência comprovada em arquitetura MVC e desenvolvimento orientado a testes. Busco oportunidade como Desenvolvedor Backend Junior para contribuir com desenvolvimento de soluções escaláveis e de alta qualidade.</p>
+<p align="left">Estudante de Engenharia de Software com foco em desenvolvimento backend. Tenho experiência prática com TypeScript e Go, adquirida por meio de projetos pessoais e estudos. Busco uma oportunidade como Estagiário em Engenharia de Software ou Desenvolvedor Backend para contribuir com soluções inteligentes e resolução de problemas, produzindo código de alta qualidade com foco em TDD, princípios SOLID, Clean Architecture e Clean Code.</p>
 
 ###
 
