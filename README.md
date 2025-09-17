@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Sobre</h2>
-
-###
-
-<p align="left">Estudante de Engenharia de Software com foco em desenvolvimento backend. Tenho experiência prática com TypeScript e Go, adquirida por meio de projetos pessoais e estudos. Busco uma oportunidade como Estagiário em Engenharia de Software ou Desenvolvedor Backend para contribuir com soluções inteligentes e resolução de problemas, produzindo código de alta qualidade com foco em TDD, princípios SOLID, Clean Architecture e Clean Code.</p>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
   <img width="12" />
