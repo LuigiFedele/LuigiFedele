@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_1280.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_1280.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 
 <p align="left"> 
