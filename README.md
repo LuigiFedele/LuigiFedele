@@ -1,36 +1,40 @@
-<h1 align="left">Olá, meu nome é Luigi</h1>
+<img src="https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_1280.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
-###
 
-<h6 align="left">• Estudante de Engenharia de Software <br>• Desenvolvedor Backend Junior</h6>
+<p align="left"> 
+  
+  ```js
+    
+    import Desenvolvedor from "LuigiFedele";
+    
+    class SobreMim extends Desenvolvedor {
+      nome = "Luigi Francesco Fedele";
+      area = "Desenvolvedor Backend";
+      educacao = "Cursando Engenharia de Software";
+      local = "Botucatu-SP";
+    }
+    
+    class Skills extends Desenvolvedor {
+      backend = "Nodejs";
+      linguagens = ["Typescript", "Go"];
+      frameworks = ["NestJs", "Express", "Fastify", "Gin"];
+      banco_dados = ["PostgreSQL", "MySQL", "MongoDB"];
+      orm = ["Prisma", "Moongose", "Sequelize", "Gorm"]
+      testes = ["TDD", "Jest", "SuperTest"];
+      infra_devops = ["Docker", "Git", "Bash", "Linux", "Nginx", "Script Python"];
+      mensageria = ["RabbitMQ", "Kafka"];
+      cloud = ["AWS", "Google Cloud"]
+      conceitos = ["Clean Architecture", "Microserviços", "SOLID", "CI/CD", "API Rest"]
+    }
 
-###
+  ```
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="25" alt="go logo"  />
-</div>
-
-###
-
-<h2 align="left">Contato</h2>
-
-###
-
-[![Linkedin]( https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luigiffedele/)](https://www.linkedin.com/in/luigiffedele/)
-[![Gmail]( https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luigiffedele@gmail.com)](mailto:luigiffedele@gmail.com)
-
-###
+<p align="left">
+  
+  [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luigiffedele/)
+  [![Gmail Badge](https://img.shields.io/badge/-luigiffedele@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luigiffedele@outlook.com)](mailto:luigiffedele@outlook.com)
+  [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP)](API-DO-SEU-WHATSAPP)
+  [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuigiFedele)
+  
+</p>
