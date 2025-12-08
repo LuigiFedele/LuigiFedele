@@ -1,6 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2019/09/22/16/20/backend-4496461_1280.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
-
-
+---
 <p align="left"> 
   
   ```js
@@ -11,6 +9,9 @@
       nome = "Luigi Francesco Fedele";
       area = "Desenvolvedor Backend";
       educacao = "Cursando Engenharia de Software";
+      resumo = "Desenvolvedor Backend com 2 anos de experiência em Node.js e TypeScript, especializado em desenvolvimento de APIs escaláveis e microsserviços.
+                Experiência prática com Node.js, NestJS, Prisma, PostgreSQL e Docker, aplicando Clean Architecture, SOLID e TDD.
+                Proativo, focado em resolver problemas complexos e otimizar processos, buscando agregar valor em projetos backend corporativos.";
       local = "Botucatu-SP";
     }
     
@@ -19,16 +20,18 @@
       linguagens = ["Typescript", "Go"];
       frameworks = ["NestJs", "Express", "Fastify", "Gin"];
       banco_dados = ["PostgreSQL", "MySQL", "MongoDB"];
-      orm = ["Prisma", "Moongose", "Sequelize", "Gorm"]
+      orm = ["Prisma", "Moongose", "Sequelize", "Gorm"];
       testes = ["TDD", "Jest", "SuperTest"];
       infra_devops = ["Docker", "Git", "Bash", "Linux", "Nginx", "Script Python"];
       mensageria = ["RabbitMQ", "Kafka"];
-      cloud = ["AWS", "Google Cloud"]
-      conceitos = ["Clean Architecture", "Microserviços", "SOLID", "CI/CD", "API Rest"]
+      cloud = ["AWS", "Google Cloud"];
+      conceitos = ["Clean Architecture", "Microserviços", "SOLID", "CI/CD", "API Rest"];
     }
 
   ```
 </p>
+
+---
 
 <p align="left">
   
